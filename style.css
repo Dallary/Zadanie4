@@ -80,11 +80,11 @@ input, select, textarea
 
 textarea:focus, input:focus
 {
-    color:white; background-color: #151515;
+    color:black; background-color: #dbd5d5;
 }
 table
 {
-    color:#999999;
+    color:#ffffff;
 
 }
 .stroka

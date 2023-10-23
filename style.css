@@ -75,7 +75,7 @@ main
 input, select, textarea
 {
     color: #151515;
-    background-color: #606060;
+    background-color: #ffffff;
 }
 
 textarea:focus, input:focus
